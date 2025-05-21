@@ -71,8 +71,8 @@ The goal of this dashboard is to explore and visualize trends and insights from 
 Hi, I'm **Rukhsar Bano**, a budding data analyst passionate about storytelling with data.  
 This is one of my Power BI portfolio projects created during my training at **IRA Skills**.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-link)  
-🌐 [Visit my website (if any)](https://yourwebsite.com)
+🔗 [Connect with me on LinkedIn] : www.linkedin.com/in/rukhsar-bano-05373b24 
+
 
 ---
 
